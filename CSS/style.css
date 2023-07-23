@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    height: 47vh;
+}
+h5{
+    color: indianred;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.divider{
+    width: 10px;
+}
+.d-grid {
+    display: grid!important;
+    padding: 50px;
+}
+.gap-5 {
+    gap: 7rem!important;
+}
+a{
+    text-decoration: none;
+    color:rgb(31, 148, 64);
+    font-weight:500;
+}
+@media only screen and (max-width: 1199px) {
+    .banner-logo, .info-logo{
+        display: none;
+    }
+    .user-dropdown{
+        display: none;
+    }
+    .banner-row, .logo-row{
+        text-align: center;
+        justify-content: center;
+    }
+  }
