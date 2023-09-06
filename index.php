@@ -8,6 +8,7 @@
 <!-------------------------------Homepage Banner Starts---------------------------------->
 
     <div class="row logo-row">
+        <!--Github : @shyamkanth-->
             <div class="col-lg-4 p-3 info-logo">
                 <img src="IMAGES\download.jpeg" style="width: 300px;" alt="Sharda University Logo">
             </div>
