@@ -48,7 +48,7 @@
 </div>
 <div class="row">
     <div class="col text-white-50 bg-dark" style="text-align: center;">
-        <p>Use of This Website Signifies Your agreement to the Sharda Terms & Conditions. <br> Copyright © 2022 Sharda - All Right Reserved. This work is licensed under an Attribution-NC-ND 4.0 International (CC BY-NC-ND 4.0)</p>
+        <p>Use of This Website Signifies Your agreement to the Sharda Terms & Conditions. <br> Copyright © 2022 Sharda - All Right Reserved. Coded by @shyamkanth. This work is licensed under an Attribution-NC-ND 4.0 International (CC BY-NC-ND 4.0)</p>
     </div>
 </div>
 <!--Github : @shyamkanth-->
